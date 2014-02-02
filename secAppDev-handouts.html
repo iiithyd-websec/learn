@@ -15,6 +15,24 @@
 			text-decoration:none;
 		}
 	</style>
+	<!-- 
+	<script> 
+		//Script used on secappdev to fetch handouts URLs
+		var links = $('#menu').find('li:nth-child(5)').find('ul li a');
+		var divLink = $("<div id='divLinks'></div>").appendTo('body');
+		links.each(function () {
+	    		if ($(this).attr('href') === '#') {
+	        		if ($(this).text().length === 4) {
+	            			$(this).attr('class', 'year');
+	        		} else {
+	            			$(this).attr('class', 'faculty');
+	        		}
+		    	}
+	    		divLink.append(this);
+			divLink.append("</br>");
+		});
+	</script>
+	-->
 </head>
 
 <body>
