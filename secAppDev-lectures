@@ -1,0 +1,948 @@
+<!Doctype HTML>
+<html>
+<head>
+	<title>SecAppDev Links</title>
+	<base href="http://secappdev.org/" target="_blank">
+	<style>
+		.year{
+			font-size: 20px;
+			color: #F00;
+			text-decoration:none;
+		}
+		.faculty{
+			font-size: 15px;
+			color: #F55;
+			text-decoration:none;
+		}
+	</style>
+</head>
+
+<body>
+<div id="divLinks">
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_cryptographic_algorithms_2013.pdf">
+    Cryptographic algorithms
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_entity_authentication_2013v1.pdf">
+    Entity authentication
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_public_key_infr_fund_2013v1.pdf">
+    Public Key Infrastructures fundamentals
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_new_developments_crypto_2013v1.pdf">
+    Recent developments in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_network_protocols_2013v1.pdf">
+    Network security protocols
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2013/Bart Preneel/preneel_cryptography_best_practices_2013v1.pdf">
+    Cryptography best practices
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2012/Claudia Diaz/Privacy Technologies.pdf">
+    Privacy Technologies
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/keynote-security-voting.pdf">
+    Computer security trends and applications
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/quire-tr.pdf">
+    QUIRE: Lightweight Provenance for Smart Phone Operating Systems (paper)
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/voting-crypto-kuleuven.pdf">
+    Cool Crypto Tricks: Homomorphisms, Zero- Knowledge Proofs (LICT DLP program)
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/sandler08votebox.pdf">
+    VoteBox: A Tamper-Evident, Verifiable, Electronic Voting System (paper)
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/tamper-evident-structures.pdf">
+    Hash-based data structures for secure logging and other applications
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/techreport-padbench.pdf">
+    Authenticated Dictionaries: Real-World Costs and Tradeoffs (paper)
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/paper-treehist.pdf">
+    Efficient Data Structures for Tamper-Evident Logging (paper)
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/quire-smartphone-security.pdf">
+    Smartphone applications
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2011/Dan Wallach/smartphone-security.pdf">
+    Smartphone Security: Trends and Predictions
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2010/Gary McGraw/stateofpractice lo res.pdf">
+    Software security: state of the practice
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2010/Gary McGraw/ARA lo res.pdf">
+    Architectural risk analysis
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2010/Gary McGraw/bsimm 15things lo res.pdf">
+    BSIMM: fifteen things everybody does
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2010/Gary McGraw/bsimm10-europe lo res.pdf">
+    BSIMM Europe
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2009/secure development lifestcycles compared.pdf">
+    secure development processes
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2009/auditability and accountability.pdf">
+    Auditability and accountability
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2009/hands-on security tools.pdf">
+    Hands on security tools
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Wietse Venema
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/programming-traps-pitfalls-1.pdf">
+    traps and pitfalls
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/programming-traps-pitfalls-2.pdf">
+    Programming traps pitfalls 2
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/forensic-discovery-tutorial.pdf">
+    Forensic discovery tutorial
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/SoftwareInterfacesToCryptographicPrimitives.pdf">
+    Cryptographic algorithms
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/SecurityArchitecturesInsideTheProgrammingLanguage.pdf">
+    Security Architectures InsideThe Programming Language
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/ThreatModeling.pdf">
+    Threat Modeling
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/entity authentication.pdf">
+    Entity authentication
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/network_protocols.pdf">
+    Network protocols
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/using_cryptography_well.pdf">
+    Using cryptography well
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/new developments in cryptology.pdf">
+    New developments in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/PKI.pdf">
+    PKI
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Johan Peeters
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/planning and tracking security requirements.pdf">
+    Cost effective security
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/abuser stories.pdf">
+    Abuser stories
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Yves Younan
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/exploiting vulnerabilities.pdf">
+    Exploiting vulnerabilities
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Georges Ataya
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Speaking_Management_Language.pdf">
+    Talking to senior management
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Lieven Desmet
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/WebApplicationSecurity.pdf">
+    Hands-on web security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Secure SDLCs compared.pdf">
+    Secure SDLCs compared
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Security testing.pdf">
+    Security testing
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Auditability and Accountability.pdf">
+    Auditability and Accountability
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Van Den Bosch
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Dataprotection_in_Hospitals.pdf">
+    Dataprotection in Hospitals
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Riccardo Scandariato
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/security architectures.pdf">
+    Security architectures
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Axel Van Lamsweerde
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/requirements engineering.pdf">
+    Requirements engineering
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Elaborating Security Requirements by Construction of Intentional Anti-Models.pdf">
+    Elaborating Security requirements by construction of intentional anti-models
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Marijke De Soete
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/International standardization of IT security.pdf">
+    International standardization of IT security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart De Win
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/JoysAndHorrorsAOP.pdf">
+    Aspect Oriented Programming
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    George Danezis
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/privacy.pdf">
+    Privacy
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2008/Anonymous credentials.pdf">
+    Anonymous credentials
+  </a>
+  <br>
+  <a class="leaf" href="/handouts/2007/13. Smartcards.pdf">
+    Smartcards
+  </a>
+  <br>
+  <a href="#" class="year">
+    2012
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/125">
+    iPhone applications
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Dan J. Bernstein
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/145">
+    Deploying high-security cryptography
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/144">
+    Cryptography worst practices
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Paco Hope
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/140">
+    Risk-based security testing
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/150">
+    New developments in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/128">
+    Network protocols
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/133">
+    Cryptography best practices
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/124">
+    Public Key Infrastructures fundamentals
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/121">
+    Entity authentication
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/115">
+    Cryptographic algorithms
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Claudia Diaz
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/126">
+    Privacy
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Jim Manico
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/151">
+    Web application access control model
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/143">
+    Authentication best practices
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/135">
+    Ghosts of XSS past, present and future
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Yves Younan
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/116">
+    C and C++ vulnerabilities, exploits and countermeasures
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/120">
+    Access control
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/148">
+    Building on sand: secure software on insecure platforms?
+  </a>
+  <br>
+  <a href="#" class="year">
+    2011
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Christophe Huygens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/97">
+    Software security: business risk
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Claudia Diaz
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/92">
+    Privacy
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Gunnar Peterson
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/113">
+    cloud security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/103">
+    Security testing
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/85">
+    iPhone applications
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/74">
+    Developing web applications as if operations mattered
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    John Steven
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/78">
+    conducting code reviews
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/91">
+    Static code analysis
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Van den Bosch
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/82">
+    Data protection in hospitals
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Dan Wallach
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/114">
+    Crypto and e-Voting: Homomorphisms, Zero-Knowledge Proofs, and Other Tricks of the Trade
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/77">
+    Smartphone applications
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/101">
+    Hash-based data structures for secure logging and other applications
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/104">
+    Computer security trends and applications
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Lieven Desmet
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/79">
+    Advanced web application security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/73">
+    C and C++ vulnerability exploits and countermeasures
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/83">
+    Access control
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/90">
+    sandboxes and policies
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/102">
+    Using cryptography well
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/96">
+    New developments in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/81">
+    Cryptographic algorithms
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/99">
+    Hash functions
+  </a>
+  <br>
+  <a href="#" class="year">
+    2010
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/111">
+    Developing web applications as if operations mattered
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/112">
+    The View from the Giant's Shoulders
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/106">
+    Security testing
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/56">
+    Network protocols
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/60">
+    new development in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/61">
+    Using cryptography well
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/59">
+    hash functions
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Christophe Huygens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/68">
+    business risk
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Lieven Desmet
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/65">
+    advanced web application security
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/64">
+    Web application security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Gary McGraw
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/55">
+    State of practice 2010
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/57">
+    Architectural risk analysis
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/58">
+    BSIMM: fifteen things everybody does
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Steven Murdoch
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/71">
+    Banking security architecture
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/69">
+    security economics
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/70">
+    Anonymity systems requirements and architecture
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Matias Madou
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/66">
+    Finding security vulnerabilities
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Filip Demaertelaere
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/67">
+    hardware security modules
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/62">
+    Access control
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/63">
+    Sandboxing untrusted code: policies and mechanisms
+  </a>
+  <br>
+  <a href="#" class="year">
+    2009
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Gary McGraw
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/1">
+    Architectural risk analysis
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/19">
+    Exploiting software how to break code
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/52">
+    Security testing
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/20">
+    Entity authentication
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/21">
+    Public key infrastructures fundamentals
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/6">
+    New developments in cryptology
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/22">
+    Using cryptographywell
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/17">
+    Hash functions
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Dan J. Bernstein
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/16">
+    Attacks on DNS
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/28">
+    Cryptography in DNS
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Lieven Desmet
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/15">
+    Web application security
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Jacob West
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/53">
+    web vulnerabilities
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/54">
+    Secure programming with static analysis
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart De Win
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/14">
+    Threat modeling
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/44">
+    Aspect oriented programming
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Filip Demaertelaere
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/27">
+    Hardware security modules
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Pieter Philippaert
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/13">
+    Software interfaces to cryptographic algorithms
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Migchiel De Jong
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/51">
+    Dynamic taint propagation
+  </a>
+  <br>
+  <a href="#" class="year">
+    2008
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/2">
+    Entity authentication
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/4">
+    Network protocols
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/26">
+    New developments in cryptography 
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/3">
+    Using cryptography well
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Wietse Venema
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/18">
+    Forensic discovery part 1
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/25">
+    Forensic discovery part 2
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/12">
+    Programming traps and pitfalls 1
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/11">
+    Programming traps and pitfalls 2
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/29">
+    secure development processes
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/10">
+    Software interfaces to cryptographic primitives
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/24">
+    Security architectures inside the programming language
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/9">
+    Threat modeling
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Riccardo Scandariato
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/8">
+    Security architectures 1
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/5">
+    Security architectures 2
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Axel Van Lamsweerde
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/23">
+    Requirements engineering
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    George Danezis
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/7">
+    Anonymous credentials
+  </a>
+  <br>
+  <a href="#" class="year">
+    2007
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Ken van Wyk
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/30">
+    Introduction
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/31">
+    Auditability and accountability
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/32">
+    Security testing
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/33">
+    Integrating security tools into the SDLC
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Dan Wallach
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/34">
+    Dealing with C and C
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/35">
+    Security architectures inside the programming language
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/45">
+    Secure distributed system architectures
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/46">
+    Secure distributed system architectures 0
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/47">
+    e-voting
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    HD Moore
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/36">
+    Exploiting vulnerabilities
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Frank Piessens
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/37">
+    Software interfaces to cryptographic primitives
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/48">
+    Access control
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Bart Preneel
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/42">
+    Entity authentication 1
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/38">
+    Entity authentication 2
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/39">
+    Public key infrastructures
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/40">
+    Network protocols
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/49">
+    Using cryptography well
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/41">
+    New developments in cryptology
+  </a>
+  <br>
+  <a href="#" class="faculty">
+    Francois Staes
+  </a>
+  <br>
+  <a class="leaf" href="/lectures/50">
+    Real world middleware
+  </a>
+  <br>
+</div>
+</body>
+</html>
